@@ -8,5 +8,5 @@ This dataset contains information on default payments, demographic factors, cred
 
 Content
 
-![image](https://user-images.githubusercontent.com/93559057/230774184-782e213e-d62d-4ef1-818b-6d767dfb0a32.png)
+<div style="text-align:center"><img width="393" alt="Screenshot 2023-04-09 at 15 06 07" src="https://user-images.githubusercontent.com/93559057/230774380-759c96ca-1160-437a-9986-ff71af54eb46.png"></div>
 
